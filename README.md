@@ -1,4 +1,4 @@
-# CSC207 Week 1 Lab Activity: Fizz Buzz!
+# CSC207 Week 1 Lab Activity: Fizz Buzz! :O
 
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
